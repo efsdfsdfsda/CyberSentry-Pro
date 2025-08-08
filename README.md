@@ -1,4 +1,4 @@
-# 🛡️ CyberSentry (Upgraded) – Suspicious Activity Monitoring
+# 🛡️ CyberSentry pro – Suspicious Activity Monitoring
 
 Real-time monitoring for system logs with configurable detection and summarized alerts.
 
